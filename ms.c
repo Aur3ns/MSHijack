@@ -1,4 +1,3 @@
-//https://github.com/hackerhouse-opensource/MsSettingsDelegateExecute/tree/main
 //gcc -m64 -o ms.exe ms.c -ladvapi32 -lshell32
 
 
